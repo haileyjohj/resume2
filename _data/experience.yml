@@ -7,10 +7,6 @@
    등록 관리 사원 2500명
   description: | # this will include new lines to allow paragraphs
      * 
-     * 
-     * 
-     * 
-     * 
      
 - layout: left
   company: 소다디자인
@@ -19,8 +15,4 @@
   dates: 2015.10 ~ 2016.03
   quote: >
   description: | # this will include new lines to allow paragraphs
-     * 
-     * 
-     * 
-     * 
      * 
