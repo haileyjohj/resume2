@@ -22,7 +22,11 @@ linkedin_username: hyejinjo0920
 # about_title: About Me
 about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  자기소개 작성 중
+  일본 도쿄 UT Technology에서 파견사원 관리 사이트를 개발, 유지 보수하고 있습니다. 
+  작은 규모의 개발 부서이기 때문에 스케줄 조정 및 작업 분배, DB 설계부터 프런트엔드, 백엔드, 서버 업로드까지 맡아서 일할 수 있었습니다. 
+  일을 하면 할수록 부족함을 느껴 기본을 더욱 탄탄히 하는 게 중요하다고 생각해 꾸준히 찾아보고 공부하고 있습니다. 
+  천천히 나아가며, 개발을 즐겁게, 그리고 세상에 꼭 필요한 서비스를 만들어내는 것을 목표로 삼고 있습니다.
+  
 
 # Projects Section
 # projects_title: Projects
