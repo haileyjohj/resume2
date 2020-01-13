@@ -2,7 +2,7 @@
   name: Backend
   description: | # this will include new lines to allow paragraphs
     * Java
-    * Spring Boot, Spring MVC, Spring Security
+    * Spring
     
 - layout: left
   name: DevOps
@@ -16,6 +16,8 @@
   description: | # this will include new lines to allow paragraphs
     * JavaScript
     * AngularJS
+    * HTML5
+    * CSS
 
   
 
