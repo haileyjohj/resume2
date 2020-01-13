@@ -4,15 +4,17 @@
   job_title: 자바 백엔드, 프론트엔드 개발자
   dates: 2018.09 ~ 현재
   quote: >
-   등록 관리 사원 2500명
+   현재 등록 관리 사원 약 3700명
   description: | # this will include new lines to allow paragraphs
-     * 
+     * Next-Navi 인사관리 사이트 개발/배포/운용
+     * MySQL, Java, AngularJs 환경에서 프론트•백엔드 개발 경험
      
 - layout: left
   company: 소다디자인
-  link: http://
+  link: http://www.sodaphotos.kr/
   job_title: 편집,시각디자인 / 웹디자인
   dates: 2015.10 ~ 2016.03
   quote: >
   description: | # this will include new lines to allow paragraphs
-     * 
+     * 포토북, 캘린더 디자인
+     * 웹 배너 및 쇼핑몰 페이지 디자인
