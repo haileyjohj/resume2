@@ -3,6 +3,15 @@
   quote: >
     2018.09 ~ 현재
   description: | # this will include new lines to allow paragraphs
-    * 
+    * 영업사원들이 Excel로 관리하던 파견사원관리표를 웹시스템으로 구축
+
+    * DB설계
+    * 화면 디자인 (Bootstrap, Angular UI Grid)
+    * 권한별 메뉴 설정, 기능제한 (Spring Security)
+    * 신규등록, 수정, 삭제 및 검색
+    * 이메일 자동 송신 (Job Scheduler Cron)
+    * DB 자동 백업 (crongtab Bash shel script)
+    * Excel 파일을 사이트에서 등록 (CSV Parse)
+    * DB정보를 Excel로 출력 (Apache POI)
 
 
