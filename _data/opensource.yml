@@ -1,10 +1,19 @@
 - layout: left
-  name: 개인 블로그
+  name: IT 기록 블로그
   link: https://blog.naver.com/hailey_jo
   quote: >
-    개인 블로그
+    사적인 저장공간
   description: | # this will include new lines to allow paragraphs
     * 2018년부터 공부하며 기본 이론 부터 에러 등 실수한 부분 등을 기록한 블로그
+    
+- layout: left
+  name: 여행 기록 블로그
+  link: https://mlmlml1.tistory.com/
+  quote: >
+    온 세상 구석구석 방랑기
+  description: | # this will include new lines to allow paragraphs
+    * 여행 기록 보관소
+    * 소소한 일상, 여행기를 기록하는 블로그
     
   
   #  * 업무에서 만난 문제, 회사에서 사용해야할 기술, 팀내 많은 분들이 실수하는 부분 등을 자세히 정리하여 공유하기 위한 블로그
