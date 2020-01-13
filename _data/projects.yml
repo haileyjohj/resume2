@@ -3,8 +3,7 @@
   quote: >
     2018.09 ~ 현재
   description: | # this will include new lines to allow paragraphs
-    * 영업사원들이 Excel로 관리하던 파견사원관리표를 웹시스템으로 구축
-
+    * 영업사원들이 Excel로 관리하던 파견사원관리표를 <mark>웹시스템으로 구축</mark>
     * DB설계
     * 화면 디자인 (Bootstrap, Angular UI Grid)
     * 권한별 메뉴 설정, 기능제한 (Spring Security)
