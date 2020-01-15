@@ -6,6 +6,7 @@
     [NCS]웹개발 응용SW엔지니어 양성과정의 웹개발 기초 교육 이수
   description: | # this will include new lines to allow paragraphs
     * Java를 기반으로 웹개발 교육 이수
+    * 팀프로젝트 3회 참여
 
 - layout: left
   name: 시사직업전문학교
@@ -14,5 +15,5 @@
   quote: >
     시각디자인 교육 이수
   description: | # this will include new lines to allow paragraphs
-    * 포토샵, 일러스트, 인디자인의 프로그램을 이용해 그래픽 디자인
+    * 포토샵, 일러스트, 인디자인의 프로그램을 이용해 그래픽 디자인 교육 이
     
