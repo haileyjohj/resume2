@@ -2,7 +2,7 @@
   name: Backend
   description: | # this will include new lines to allow paragraphs
     * Java
-    * Spring
+    * Spring Framework
     
 - layout: left
   name: DevOps
